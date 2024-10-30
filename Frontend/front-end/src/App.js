@@ -8,6 +8,7 @@ function App() {
       <BrowserRouter>
       <h1>E-dashboard</h1>
       <Navbar/>
+      bbd
       </BrowserRouter>
      
     </div>
